@@ -14,6 +14,7 @@
 		B78FCDAD22561EDA003FB1AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B78FCDAB22561EDA003FB1AF /* LaunchScreen.storyboard */; };
 		B78FCDB822561EDB003FB1AF /* InitialProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78FCDB722561EDB003FB1AF /* InitialProjectTests.swift */; };
 		B78FCDC322561EDB003FB1AF /* InitialProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78FCDC222561EDB003FB1AF /* InitialProjectUITests.swift */; };
+		B78FCDD322563267003FB1AF /* trumpet.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B78FCDD222563267003FB1AF /* trumpet.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B78FCDBE22561EDB003FB1AF /* InitialProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InitialProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B78FCDC222561EDB003FB1AF /* InitialProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialProjectUITests.swift; sourceTree = "<group>"; };
 		B78FCDC422561EDB003FB1AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B78FCDD222563267003FB1AF /* trumpet.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = trumpet.mp3; path = ../../../../Downloads/assets/trumpet.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B78FCDA922561EDA003FB1AF /* Assets.xcassets */,
 				B78FCDAB22561EDA003FB1AF /* LaunchScreen.storyboard */,
 				B78FCDAE22561EDA003FB1AF /* Info.plist */,
+				B78FCDD222563267003FB1AF /* trumpet.mp3 */,
 			);
 			path = InitialProject;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 			files = (
 				B78FCDAD22561EDA003FB1AF /* LaunchScreen.storyboard in Resources */,
 				B78FCDAA22561EDA003FB1AF /* Assets.xcassets in Resources */,
+				B78FCDD322563267003FB1AF /* trumpet.mp3 in Resources */,
 				B78FCDA822561ED9003FB1AF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
